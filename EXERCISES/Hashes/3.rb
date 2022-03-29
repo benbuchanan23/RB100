@@ -8,6 +8,6 @@
   year:    2003
 }
 
-car.delete(:mileage)
+car.delete(:mileage)             # Use of .delete
 
 puts car
