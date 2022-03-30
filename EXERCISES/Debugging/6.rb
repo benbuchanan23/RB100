@@ -15,3 +15,5 @@
   
   puts 'Confucius says:'
   puts '"' + get_quote('Confucius') + '"'
+
+  
