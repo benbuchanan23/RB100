@@ -6,4 +6,4 @@ def scream(words)
   puts words
 end
 
-scream("Yippeee")      # Yippeee !!!!
+scream("Yippeee")      # No print d/t return called before puts and no puts outside method
